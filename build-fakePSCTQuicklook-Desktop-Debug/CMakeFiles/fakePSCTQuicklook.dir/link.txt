@@ -1,0 +1,1 @@
+/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/fakePSCTQuicklook.dir/fakePSCTQuicklook_autogen/mocs_compilation.cpp.o CMakeFiles/fakePSCTQuicklook.dir/main.cpp.o CMakeFiles/fakePSCTQuicklook.dir/mainwindow.cpp.o CMakeFiles/fakePSCTQuicklook.dir/waveformgridwidget.cpp.o -o fakePSCTQuicklook  /usr/lib64/libQt5Widgets.so.5.15.3 /usr/lib64/libQt5Gui.so.5.15.3 /usr/lib64/libQt5Core.so.5.15.3 
