@@ -1,8 +1,0 @@
-/home/pSCTtest/projects/qtprojects/fakePSCTQuicklook/build/CMakeFiles/fakePSCTQuicklook.dir
-/home/pSCTtest/projects/qtprojects/fakePSCTQuicklook/build/CMakeFiles/edit_cache.dir
-/home/pSCTtest/projects/qtprojects/fakePSCTQuicklook/build/CMakeFiles/rebuild_cache.dir
-/home/pSCTtest/projects/qtprojects/fakePSCTQuicklook/build/CMakeFiles/list_install_components.dir
-/home/pSCTtest/projects/qtprojects/fakePSCTQuicklook/build/CMakeFiles/install.dir
-/home/pSCTtest/projects/qtprojects/fakePSCTQuicklook/build/CMakeFiles/install/local.dir
-/home/pSCTtest/projects/qtprojects/fakePSCTQuicklook/build/CMakeFiles/install/strip.dir
-/home/pSCTtest/projects/qtprojects/fakePSCTQuicklook/build/CMakeFiles/fakePSCTQuicklook_autogen.dir
